@@ -10,3 +10,4 @@ Simple Java project to test Jenkins CI/CD pipeline with GitHub webhook.
 ## Trigger
 Push to GitHub → Webhook → Jenkins → Auto build & test
 # Test Thu  2 Apr 20:59:59 +01 2026
+## Pipeline Test - Thu  2 Apr 23:27:32 +01 2026
